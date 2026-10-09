@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 e4adc69cf01f2f33e874ae850bb5e2b48e6eb11e Melike İrem Arslan <marslan25@ku.edu.tr> 1791553087 +0300	fetch --progress --prune --recurse-submodules=on-demand origin: storing head
+e4adc69cf01f2f33e874ae850bb5e2b48e6eb11e bab4546cfb8471d38b842b907af39f8e06b9776b Melike İrem Arslan <marslan25@ku.edu.tr> 1791556750 +0300	pull --no-stat -v --progress origin main: fast-forward
