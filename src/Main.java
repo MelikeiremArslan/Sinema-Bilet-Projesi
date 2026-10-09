@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Samo xd
 public class Main {
 
     public static void KoltukGoster(boolean[] koltuklar){
